@@ -38,4 +38,4 @@ I'm looking for a job. Email me! cneyhn@gmail.com
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyhn&layout=compact&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyhn&layout=compact)
