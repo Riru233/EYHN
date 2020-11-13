@@ -41,5 +41,3 @@ I'm looking for a job. Email me! cneyhn@gmail.com
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyhn&layout=compact&card_width=445)
 
 [![EYHN's github stats](https://github-readme-stats.vercel.app/api?username=eyhn)](https://github.com/anuraghazra/github-readme-stats)
-
-[![EYHN's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EYHN)](https://github.com/anuraghazra/github-readme-stats)
