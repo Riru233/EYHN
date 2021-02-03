@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I'm looking for a job. Email me! cneyhn@gmail.com
-
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
