@@ -17,6 +17,7 @@
 [![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
@@ -30,8 +31,8 @@
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
 ![](https://img.shields.io/badge/EYHN%20❤️-FFF?style=flat-square)
+![](https://img.shields.io/badge/Rust-E34F26?style=flat-square&logo=Rust&logoColor=ffffff)
 ![](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=C-Sharp&logoColor=ffffff)
-![](https://img.shields.io/badge/Typescript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 
 ![](https://img.shields.io/badge/Creating%20with-FFF?style=flat-square)
 [![](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=ffffff)](https://www.blender.org/)
