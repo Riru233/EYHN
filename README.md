@@ -39,7 +39,7 @@
 [![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff)](https://www.figma.com/)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=ffffff)
 
-
+hizuna
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyhn&layout=compact)
